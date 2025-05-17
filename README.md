@@ -39,13 +39,13 @@ Asteroid Annihilation is a dynamic 2D space shooter built with Unity. Players pi
 
 ## 🎬 Gameplay Preview
 
+
 <p align="center">
-  <!-- Embed a GIF or link to a video of your gameplay. Example: 
-  <img src="./path/to/your/gameplay.gif" alt="Gameplay Preview" width="600"/> 
-  or
-  https://your-video-link.com/gameplay-preview
-  -->
-  <em>Gameplay GIF/Video Placeholder</em>
+
+
+https://github.com/user-attachments/assets/241ec35c-dbb2-4c3e-8a01-1f7653c532f4
+
+
 </p>
 
 ---
@@ -95,3 +95,6 @@ Asteroid Annihilation is a dynamic 2D space shooter built with Unity. Players pi
 *   **IDE**: Visual Studio 2022
 
 ---
+﻿<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
